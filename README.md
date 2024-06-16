@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anthonylaw86
-- 👀 I’m interested in anything that will help me advance my career or personal life.
+- 👀 I’m interested in honing my coding skill & advancing my software engineering career.
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me anthonylaw910@gmail.com
+- 📫 How to reach me alawcodes@gmail.com
 
 <!---
 anthonylaw86/anthonylaw86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
