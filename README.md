@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anthonylaw86
-- 👀 I’m interested in honing my coding skill & advancing my software engineering career.
-- 🌱 I’m currently learning Software Engineering
+- 👋 Hi, I’m Anthony
+- 👀 I am a full-stack software engineer with a Primary focus in React & express. Also comfortable with javascript & node.
+- 🌱 Would love to foster a relationship with you, please feel free to view my repo's & let me know if you'd like to work together.
 - 📫 How to reach me alawcodes@gmail.com
 
 <!---
